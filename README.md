@@ -6,4 +6,4 @@ The interface developed is in "DataSilobyWagner".
 
 The sketch developed is in "Source code". Put your local wireless SSID and passWord. 
 
-For more informations, please send an email for: wagnerorquestra@gmail.com
+For more informations you can send an email for: wagnerorquestra@gmail.com
